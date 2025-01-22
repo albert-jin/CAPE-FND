@@ -1,0 +1,10 @@
+[
+    {
+        "article": "A recent study claims that consuming lemon juice cures cancer without the need for chemotherapy.",
+        "result": "Fake"
+    },
+    {
+        "article": "A new vaccine has been developed that can prevent all types of flu.",
+        "result": "Real"
+    }
+]

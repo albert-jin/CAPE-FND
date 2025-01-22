@@ -1,0 +1,10 @@
+[
+    {
+        "article": "A recent study claims that drinking green tea can cure diabetes.",
+        "result": "Fake"
+    },
+    {
+        "article": "A new drug has been approved that can significantly reduce the risk of heart disease.",
+        "result": "Real"
+    }
+]
